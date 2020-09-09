@@ -1,1 +1,1 @@
-# Analytical-Decision-Making-using-RISK
+# Analytical-Decision-Making-Excel-Addin-Risk
