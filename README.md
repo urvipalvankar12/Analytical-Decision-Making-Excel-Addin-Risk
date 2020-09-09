@@ -1,4 +1,4 @@
-# Analytical-Decision-Simulation-Techiques-in-Excel
+# Analytical-Decision-Making-Simulation-Techiques-in-Excel
 
 Simulation techniques used to solve supply chain operation problems.
 Simulation is carried out using excel's addin technique called @RISK
